@@ -14,10 +14,10 @@ Movement is a Chrome extension that displays random quotes on every new tab. It 
 
 Here are some screenshots of the Movement Chrome extension in action:
 
-![Screenshot 1](path_to_screenshot_1.png)
+![Screenshot 1](https://raw.githubusercontent.com/ritin0204/Movement/master/SS/Screenshot%20from%202023-06-21%2021-51-35.png)
 
 
-![Screenshot 2](path_to_screenshot_2.png)
+![Screenshot 2](https://raw.githubusercontent.com/ritin0204/Movement/master/SS/Screenshot%20from%202023-06-21%2021-52-02.png)
 
 
 ## Installation

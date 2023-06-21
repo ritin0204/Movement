@@ -1,0 +1,55 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: url("https://wallpapers.com/images/hd/green-forest-desktop-sugd8ukg12nr9rmv.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.App .quote-box {
+    background-color: rgba(0, 0, 0, 0.563);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease-in-out;
+    color: #fff;
+}
+.App .quote-box .card-text {
+    font-size: 1.1rem;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    line-height: 1.6rem;
+    text-align: center;
+    margin-bottom: 20px;
+    width: 400px;
+}
+.App .quote-box button {
+    background-color: #00000077;
+    color: #ffffff73;
+    border: 1px solid #ffffff3d;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 0.7rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.App .quote-box button:hover {
+    background-color: #00000087;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}

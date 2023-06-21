@@ -1,6 +1,5 @@
 # Movement Chrome Extension
 
-![Movement Chrome Extension Logo](path_to_logo.png)
 
 Movement is a Chrome extension that displays random quotes on every new tab. It aims to inspire and motivate users by presenting them with uplifting and thought-provoking quotes whenever they open a new tab in their Chrome browser.
 

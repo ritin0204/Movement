@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movement/static/css/main.a4a30340.css",
+    "main.js": "/Movement/static/js/main.e4e9833c.js",
+    "index.html": "/Movement/index.html",
+    "main.a4a30340.css.map": "/Movement/static/css/main.a4a30340.css.map",
+    "main.e4e9833c.js.map": "/Movement/static/js/main.e4e9833c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a30340.css",
+    "static/js/main.e4e9833c.js"
+  ]
+}
